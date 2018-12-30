@@ -1,7 +1,7 @@
 # ImageCaptioning_Detection
 Tensorflow model porting in android for image captioning and object detection in a image
 
-1. Download Assest and Libs Folder from : 
+1. Download APK, Assest and Libs Folder from : 
 https://drive.google.com/drive/folders/1ns7XIRHZhWUfUn8DvLzgaXHJXiPDVl2F?usp=sharing
 2. Model for image captioning is inherited from : 
 https://github.com/neural-nuts/Cam2Caption
