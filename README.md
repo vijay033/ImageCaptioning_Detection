@@ -8,3 +8,12 @@ https://github.com/neural-nuts/Cam2Caption
 3. Model for object detection is inherited from : 
 https://github.com/martinwicke/tensorflow-tutorial/blob/master/tensorflow_inception_graph.pb
 https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
+4. Add below lines in build.gradle
+android{
+
+sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+}
